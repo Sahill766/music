@@ -1,0 +1,11 @@
+.flex {
+    display: flex;
+}
+.align_items{
+    align-items: center;
+}
+.justify_contant{
+    justify-content: center;
+}
+
+
